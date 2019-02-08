@@ -2,8 +2,8 @@ name: flutter_billion_web
 description: A new Flutter application.
 
 dependencies:
-  flutter_webview_plugin: ^0.2.1+2
-  url_launcher: ^3.0.3
+  flutter_webview_plugin: ^0.3.0+2
+  url_launcher: ^4.1.0+1
   card_settings: ^0.1.14
   flutter_offline: ^0.2.1
   flutter:

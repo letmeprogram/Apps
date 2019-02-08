@@ -21,7 +21,7 @@ packages:
       name: card_settings
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.14"
+    version: "0.1.16"
   charcode:
     dependency: transitive
     description:
@@ -42,7 +42,7 @@ packages:
       name: connectivity
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.3.1"
+    version: "0.3.2"
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -61,7 +61,7 @@ packages:
       name: flutter_colorpicker
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.0.5"
+    version: "0.0.7"
   flutter_masked_text:
     dependency: transitive
     description:
@@ -75,7 +75,7 @@ packages:
       name: flutter_offline
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.1"
+    version: "0.2.3"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -87,7 +87,7 @@ packages:
       name: flutter_webview_plugin
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.1+2"
+    version: "0.3.0+2"
   intl:
     dependency: transitive
     description:
@@ -183,7 +183,7 @@ packages:
       name: url_launcher
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "3.0.3"
+    version: "4.2.0+3"
   vector_math:
     dependency: transitive
     description:
@@ -193,4 +193,4 @@ packages:
     version: "2.0.8"
 sdks:
   dart: ">=2.0.0 <3.0.0"
-  flutter: ">=0.1.4 <2.0.0"
+  flutter: ">=0.5.6 <2.0.0"
